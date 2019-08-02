@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "airbnb"
+  ],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "import/no-unresolved": ["error", { ignore: ["^react$"] }],
+    "no-param-reassign": 0,
+    "react/destructuring-assignment": 0,
+    "react/jsx-filename-extension": 0,
+    "react/no-access-state-in-setstate": 0,
+  }
+}
