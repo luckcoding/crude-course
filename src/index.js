@@ -26,7 +26,7 @@ import handleStates from './handleStates';
  * })
  */
 export default (models, middle) => (Comp) => {
-  class Course extends React.PureComponent {
+  class Course extends React.Component {
     constructor(props) {
       super(props);
       this.state = this.injecter();

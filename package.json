@@ -1,6 +1,6 @@
 {
   "name": "@crude/course",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "A react hoc handling event process",
   "author": "luckcoding",
   "main": "lib/index.js",

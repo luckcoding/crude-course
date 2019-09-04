@@ -30,8 +30,5 @@
         "@babel/react"
       ]
     }
-  },
-  "resolve": {
-    "symlinks": false
   }
 }
